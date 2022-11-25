@@ -1,1 +1,1 @@
-# heap_minimo_
+# Heap de minimo, desativação de índices
